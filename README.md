@@ -37,7 +37,7 @@ Meu portfólio está disponível online, com projetos que incluem player de mús
 <img 
     align="left" 
     alt="HTML" 
-    title="HTML" 
+    title="HTML - Estrutura de páginas" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
@@ -45,7 +45,7 @@ Meu portfólio está disponível online, com projetos que incluem player de mús
 <img 
     align="left" 
     alt="CSS" 
-    title="CSS" 
+    title="CSS - Estilização de páginas" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -53,15 +53,23 @@ Meu portfólio está disponível online, com projetos que incluem player de mús
 <img 
     align="left" 
     alt="JavaScript" 
-    title="JavaScript" 
+    title="JavaScript - Interatividade" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
+    alt="React" 
+    title="React - Front-end dinâmico" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="PHP" 
-    title="PHP" 
+    title="PHP - Back-end" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
@@ -69,7 +77,7 @@ Meu portfólio está disponível online, com projetos que incluem player de mús
 <img 
     align="left" 
     alt="MySQL" 
-    title="MySQL" 
+    title="MySQL - Banco de dados" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
@@ -77,7 +85,7 @@ Meu portfólio está disponível online, com projetos que incluem player de mús
 <img 
     align="left" 
     alt="Git" 
-    title="Git" 
+    title="Git - Controle de versões" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
