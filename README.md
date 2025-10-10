@@ -93,6 +93,12 @@ Meu portfólio está disponível online, com projetos que incluem player de mús
 
 ---
 
+### 📊 Top Linguagens
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bet1nh010&layout=compact&theme=radical)](https://github.com/Bet1nh010/github-readme-stats)
+
+---
+
 ### 🌐 Meu Portfólio
 
 Meu portfólio está disponível online, mostrando projetos como:  
