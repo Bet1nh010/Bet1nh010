@@ -11,21 +11,21 @@ Meu portfólio está disponível online, com projetos que incluem player de mús
         <img 
             alt="Email" 
             title="Me mande um e-mail" 
-            src="https://custom-icon-badges.demolab.com/badge/Email-roberto.alvescoelho@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Email-roberto.alvescoelho@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E74C3C&label=Email"
         />
     </a>
     <a href="https://www.linkedin.com/in/roberto-alves-coelho-3a442a195/">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Roberto%20Alves-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Roberto-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&label=LinkedIn"
         />
     </a>
     <a href="https://github.com/Bet1nh010">
         <img 
             alt="GitHub" 
             title="Meu GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/GitHub-Bet1nh010-black?style=for-the-badge&logo=github&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/GitHub-Bet1nh010-black?style=for-the-badge&logo=github&logoColor=white&labelColor=333&label=GitHub"
         />
     </a>
 </p>
@@ -84,6 +84,12 @@ Meu portfólio está disponível online, com projetos que incluem player de mús
 />
 
 <br><br>
+
+---
+
+### 🤖 Estatísticas
+
+![Roberto Alves Coelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bet1nh010&show_icons=true&theme=radical)
 
 ---
 
