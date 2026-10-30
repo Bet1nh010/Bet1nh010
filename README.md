@@ -87,9 +87,14 @@ Projeto próprio voltado à análise de partidas de futebol e apresentação de 
 
 ### 📊 Estatísticas do GitHub
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bet1nh010&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bet1nh010&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Bet1nh010&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
+</p>
+
+### 💻 Linguagens mais utilizadas
+
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bet1nh010&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
 </p>
 
 ---
