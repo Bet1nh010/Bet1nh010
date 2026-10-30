@@ -1,119 +1,117 @@
 # 👨‍💻 Roberto Alves Coelho
 
-**`Desenvolvedor Web Jr`**
+### Desenvolvedor Web Jr. | Front-end | Análise e Desenvolvimento de Sistemas
 
-Tenho 37 anos, sou apaixonado por tecnologia e atualmente curso **Análise e Desenvolvimento de Sistemas**.  
-Meu foco principal é o **Front-end**, criando interfaces modernas, interativas e intuitivas.  
-Meu portfólio está disponível online, com projetos que incluem player de música, API de clima em tempo real e vídeos demonstrando meus trabalhos: [Acesse meu Portfólio](https://bet1nh010.github.io/portifolio-front-end/)
+Olá! Seja bem-vindo ao meu GitHub! 👋
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de soluções digitais.
+
+Tenho interesse especial em **desenvolvimento Front-end e Web**, criando interfaces modernas, responsivas e intuitivas. Também estudo e desenvolvo projetos que envolvem integração com APIs, bancos de dados e funcionalidades interativas.
+
+Gosto de aprender na prática, explorar novas tecnologias e transformar ideias em projetos funcionais.
+
+🎯 **Meu objetivo:** crescer profissionalmente na área de tecnologia, contribuir com projetos reais e continuar desenvolvendo minhas habilidades em programação.
+
+---
+
+### 📬 Contato e redes profissionais
 
 <p align="left">
-    <a href="mailto:roberto.alvescoelho@gmail.com">
-        <img 
-            alt="Email" 
-            title="Me mande um e-mail" 
-            src="https://custom-icon-badges.demolab.com/badge/Email-roberto.alvescoelho@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E74C3C&label=Email"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/roberto-alves-coelho-3a442a195/">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Roberto-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&label=LinkedIn"
-        />
-    </a>
-    <a href="https://github.com/Bet1nh010">
-        <img 
-            alt="GitHub" 
-            title="Meu GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/GitHub-Bet1nh010-black?style=for-the-badge&logo=github&logoColor=white&labelColor=333&label=GitHub"
-        />
-    </a>
+  <a href="mailto:roberto.alvescoelho@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/roberto-alves-coelho-3a442a195/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Bet1nh010">
+    <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://bet1nh010.github.io/roberto-portfolio-react/">
+    <img src="https://img.shields.io/badge/Portfólio-Acessar-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Tecnologias e ferramentas
 
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML - Estrutura de páginas" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS - Estilização de páginas" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript - Interatividade" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React - Front-end dinâmico" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP - Back-end" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL - Banco de dados" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git - Controle de versões" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+**Desenvolvimento Front-end**
 
-<br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript e React"/>
+</p>
+
+**Back-end e banco de dados**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,supabase" alt="PHP, MySQL e Supabase"/>
+</p>
+
+**Ferramentas e produtividade**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e VS Code"/>
+</p>
+
+- Excel: planilhas, organização e análise de dados.
+- CapCut e ferramentas de edição de vídeo.
+- Integração com APIs e consumo de dados.
+- Desenvolvimento de interfaces responsivas.
+- Controle de versão com Git e GitHub.
 
 ---
 
-### 🤖 Estatísticas
+### 💻 Projetos em destaque
 
-![Roberto Alves Coelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bet1nh010&show_icons=true&theme=radical)
+#### 🌐 Portfólio Web
+Projeto desenvolvido para apresentar meus trabalhos, habilidades e experiências com desenvolvimento web.
+
+- Interface interativa e responsiva.
+- Player de música.
+- Integração com API de clima.
+- Apresentação de projetos e demonstrações em vídeo.
+
+🔗 [Acessar meu portfólio](https://bet1nh010.github.io/roberto-portfolio-react/)
+
+#### ⚽ Prognóstico FC
+Projeto próprio voltado à análise de partidas de futebol e apresentação de informações estatísticas para auxiliar na avaliação de jogos.
+
+- Aplicação web.
+- Organização e apresentação de dados esportivos.
+- Integração com banco de dados.
+- Desenvolvimento de funcionalidades para análise de partidas.
+
+🔗 [Acessar o Prognóstico FC](https://prognosticofc.online)
 
 ---
 
-### 📊 Top Linguagens
+### 📊 Estatísticas do GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bet1nh010&layout=compact&theme=radical)](https://github.com/Bet1nh010/github-readme-stats)
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bet1nh010&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bet1nh010&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
+</p>
 
 ---
 
-### 🌐 Meu Portfólio
+### 🎓 Formação acadêmica
 
-Meu portfólio está disponível online, mostrando projetos como:  
+**Análise e Desenvolvimento de Sistemas**  
+Estácio — Em andamento.
 
-- 🎵 Player de música interativo  
-- 🌤️ Clima em tempo real via API  
-- 🎬 Vídeos demonstrando meus projetos  
-- 💻 Integração front-end e back-end  
+---
 
-[🔗 Acesse meu Portfólio](https://bet1nh010.github.io/portifolio-front-end/)
+### 📌 Atualmente
+
+- Aprimorando conhecimentos em JavaScript e React.
+- Desenvolvendo projetos práticos para fortalecer minhas habilidades.
+- Estudando integração entre Front-end, Back-end e bancos de dados.
+- Buscando oportunidades para iniciar e desenvolver minha carreira profissional na área de tecnologia.
+
+---
+
+### 🤝 Vamos nos conectar?
+
+Estou aberto a oportunidades, novos desafios, networking e colaboração em projetos de tecnologia.
+
+**Obrigado pela visita ao meu perfil!** 🚀
